@@ -1,7 +1,5 @@
 一、基本的使用方法
-
 介绍：
-
 WKWebView是苹果推出的框架，性能比UIWebView更优。 首先上DEMO
 MayaLoanSTapi.mayaloan.cyouMayaLoanEN
 WKWebView有两个delegate,WKUIDelegate 和 WKNavigationDelegate。
