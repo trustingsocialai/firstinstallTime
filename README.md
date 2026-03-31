@@ -1,7 +1,7 @@
 一、基本的使用方法
 介绍：
 WKWebView是苹果推出的框架，性能比UIWebView更优。 首先上DEMO
-WeiCountInfoParSAtest-phl-api.fyinformation.ccWeiCountInfoParEN
+1111
 WKWebView有两个delegate,WKUIDelegate 和 WKNavigationDelegate。
 WKNavigationDelegate主要处理一些跳转、加载处理操作，
 WKUIDelegate主要处理JS脚本，确认框，警告框等。因此WKNavigationDelegate更加常用。
